@@ -1,4 +1,7 @@
 ## practice
+
+![sample image](/images/practice.jpg)
+
 musical scale quiz for monome norns, to practice scales on the piano or any other instrument.
 
 the script will name a scale for the user to play, and there is an option to reveal a small two-octave piano keyboard with the keys of said scale highlighted.
