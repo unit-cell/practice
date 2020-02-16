@@ -1,6 +1,6 @@
 ## practice
 
-![sample image](/images/practice.jpg)
+![](/images/practice_resized.jpg)
 
 musical scale quiz for monome norns, to practice scales on the piano or any other instrument.
 
