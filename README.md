@@ -1,4 +1,4 @@
-## practice
+## practice (v0.1)
 
 ![](/images/practice_resized.jpg)
 
